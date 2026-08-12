@@ -15,7 +15,7 @@ A Python-based cybersecurity toolkit with a simple and modern desktop interface.
 
 ## 🖥️ Screenshot
 
-_Add a screenshot of Cyber Toolkit here._
+![Cyber Toolkit Screenshot](./Screenshot%202026-08-13%20000503.png)
 
 ## 🚀 Download
 
