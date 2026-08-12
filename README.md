@@ -21,7 +21,7 @@ _Add a screenshot of Cyber Toolkit here._
 
 Download the latest Windows version:
 
-[⬇️ Download CyberToolkit](https://github.com/Ziad508/CyberToolkit/raw/refs/heads/main/CyberToolkit.zip)
+[⬇️ Download Cyber Toolkit v5.0](https://github.com/Ziad508/CyberToolkit/raw/refs/heads/main/CyberToolkit.zip)
 
 ## 📦 Installation
 
